@@ -1,0 +1,7 @@
+{
+  "name": "cafe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
